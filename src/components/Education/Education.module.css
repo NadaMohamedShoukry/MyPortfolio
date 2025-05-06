@@ -5,8 +5,8 @@
     border-radius: 15px;
     padding: 50px;
     margin-top: 129px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
     z-index: 1;
 }
 .title{
@@ -23,8 +23,7 @@
 .eduContent{
    position: relative;
    float: right;
-
- 
+  
 }
 .college,.college p{
     color: var(--color-text);

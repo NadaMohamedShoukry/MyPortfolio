@@ -14,6 +14,7 @@
         ],
         "demo": "https://drive.google.com/file/d/1TaOscTOv4chVrMSUckV7LmbbjwaYAB6u/view?usp=sharing",
         "source": "https://github.com/NadaMohamedShoukry/MERN_E-Commerce"
+       
     },
     {
         "type":"Mobile App",
@@ -27,7 +28,8 @@
             "SQLlite"
         ],
         "demo": "https://drive.google.com/file/d/1T9oK3bCAA1VuZ-Goxbv4Cxzj9tMYJPzK/view?usp=sharing",
-        "source": "https://github.com/NadaMohamedShoukry/Emotion-based-Book-Recommendation-System"
+        "source": "https://github.com/NadaMohamedShoukry/Emotion-based-Book-Recommendation-System",
+         "more":"https://ahmedshahine1.github.io/Book_Recommendation-/"
     },
     {
         "type":"Mobile App",

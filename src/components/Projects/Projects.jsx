@@ -42,6 +42,10 @@ export const Projects = () => {
                 <a href={project.source} className={styles.link}>
                   Source
                 </a>
+                <a href={project.more} className={project.more ? styles.visibleLink : styles.hiddenLink}>
+               
+                  Know More
+                </a>
               </div>
             </div>
           );

@@ -9,7 +9,7 @@ export const About = () => {
         <p className={styles.description}>I am a fresh graduate frontend developer using React , ReactNative.I also have basic backend development experience using Express and Django</p>
          <div className={styles.btns}>
         <a className={styles.contactBtn} href="mailto:nadashoukry23@gmail.com">Contact Me</a>
-        <a className={styles.contactBtn} href="https://drive.google.com/file/d/1NExalZY6HbJ4eWeHTqhXleaw8YKZjXfb/view?usp=sharing">My CV</a>
+        <a className={styles.contactBtn} href="https://drive.google.com/file/d/159aMzuKmbSqWpLDTEAA1v_nYEl2D7Byo/view?usp=sharing">My CV</a>
         </div> 
       </div>
       <img className={styles.aboutImg} src={getImageUrl("undraw_software-engineer_xv60.svg")} alt="aboutImage" />

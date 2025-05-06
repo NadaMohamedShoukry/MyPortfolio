@@ -8,9 +8,9 @@ export const Education = () => {
         <img className={styles.eduImg} src={getImageUrl("FCAILOGO.png")} alt="fcai" />
       <div className={styles.eduContent}>
         <p className={styles.college}>
-          Faculty of Computers and Artificial Intelligence 
-          <p>Cairo University</p>
-        </p>
+          Faculty of Computers and Artificial Intelligence,Cairo University </p>
+          {/* <p>Cairo University</p> */}
+       
         <p className={styles.department}>Computer Science Department </p>
         <p className={styles.date}>October 2020 − July 2024</p>
         <ul className={styles.list}>
