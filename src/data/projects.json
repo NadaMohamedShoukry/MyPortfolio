@@ -1,0 +1,85 @@
+[
+    {
+        "title": "E-Commerce Website",
+        "imageSrc":"",
+        "description": "E-commerce website in MERN stack. Applied CRUD Operation for cart, View previous orders",
+        "skills": [
+            "React",
+            "Express",
+            "MongoDB",
+            "Node",
+            "TypeScript",
+            "React Router",
+            "Context API"
+        ],
+        "demo": "https://drive.google.com/file/d/1TaOscTOv4chVrMSUckV7LmbbjwaYAB6u/view?usp=sharing",
+        "source": "https://github.com/NadaMohamedShoukry/MERN_E-Commerce"
+    },
+    {
+        "type":"Mobile App",
+        "tag":"Graduation Project",
+        "title": "BookFeels",
+        "imageSrc":"bookFeels.jpeg",
+        "description": "Emotion based Book Recommendation System that recommends book based on the readers' prefered emotion.",
+        "skills": [
+            "ReactNative",
+            "Django",
+            "SQLlite"
+        ],
+        "demo": "https://drive.google.com/file/d/1T9oK3bCAA1VuZ-Goxbv4Cxzj9tMYJPzK/view?usp=sharing",
+        "source": "https://github.com/NadaMohamedShoukry/Emotion-based-Book-Recommendation-System"
+    },
+    {
+        "type":"Mobile App",
+        "tag":"ITI",
+        "title": " HappyMeal",
+        "imageSrc":"happyMeal.jpeg",
+        "description": "This is an appMeals Android Application with ITI. View and Search Meals , Add Meals to favourite list",
+        "skills": [
+            "Kotlin",
+            "Mealsdb API"
+        ],
+        "demo": "https://drive.google.com/file/d/1GdxFpbfN6H8ZqJDq1PtnQXQuegMPzHIv/view?usp=sharing",
+        "source": "https://github.com/NadaMohamedShoukry/Happy-Meal"
+    },
+    {
+       
+        "title": "Student Affairs Website",
+        "imageSrc":"template.jpeg",
+        "description": "Web based management system designed to manage student records and information.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Java Script",
+            "Django",
+            "SQLlite"
+        ],
+        "demo": "",
+        "source": "https://github.com/NadaMohamedShoukry/Student_Affairs_Website"
+    },
+    {
+       
+        "title": "MyTemplateDesign",
+        "imageSrc":"template.jpeg",
+        "description": "This is a web template design to practice CSS and JavaScript DOM.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Java Script"
+        ],
+        "demo": "https://nadamohamedshoukry.github.io/MyTemplateDesign/",
+        "source": "https://github.com/NadaMohamedShoukry/MyTemplateDesign"
+    },
+    {
+        
+        "title": " Leon",
+        "imageSrc":"leon.png",
+        "description": "This layout was built as a practice exercise using grid and flexbox .",
+        "skills": [
+            "HTML",
+            "CSS"
+        ],
+        "demo": "https://nadamohamedshoukry.github.io/Leon/",
+        "source": "https://github.com/NadaMohamedShoukry/Leon"
+    }
+]

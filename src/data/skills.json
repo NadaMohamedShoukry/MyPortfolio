@@ -1,0 +1,62 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "css.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "js.png"
+      },
+      {
+        "title": "TypeScript",
+        "imageSrc": "typescript.svg"
+      },
+      {
+        "title": "Java",
+        "imageSrc": "java.webp"
+      },
+      {
+        "title": "C++",
+        "imageSrc": "c++.png"
+      },
+      {
+        "title": "Python",
+        "imageSrc": "python.png"
+      },
+    {
+      "title": "React",
+      "imageSrc": "react.png"
+    },
+    {
+        "title": "ReactNative",
+        "imageSrc": "react.png"
+      },
+      {
+        "title": "ExpressJs",
+        "imageSrc": "expressjs.png"
+      },
+    {
+      "title": "NodeJs",
+      "imageSrc": "nodejs.png"
+    },
+    {
+        "title": "Django",
+        "imageSrc": "django.png"
+      },
+    {
+      "title": "MongoDB",
+      "imageSrc": "mongodb.png"
+    },
+    {
+        "title": "Github",
+        "imageSrc": "github.png"
+      },
+      {
+        "title": "Git",
+        "imageSrc": "git.png"
+      }
+  ]

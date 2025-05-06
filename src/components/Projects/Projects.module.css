@@ -1,0 +1,90 @@
+@import "../../vars.css";
+.container{
+    color: var(--color-text);
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.title{
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+}
+.project{
+
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: linear-gradient(180deg,#576cbc 0%,#132a53 100%);
+    box-shadow: 0 16px 14px 0 #04152d;
+    padding: 10px 24px;
+    max-width: 345px;
+    height: 300px;
+}
+.special{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ gap: 10px;
+}
+.tag{
+    padding: 1px 2px;
+    width: 150px;
+    text-align: center;
+    border-radius:5px ;
+    font-size: 15px;
+}
+.projName{
+    font-size: 23px;
+    font-weight: 700;
+}
+.projDescription{
+    margin-top: 6px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.skills{
+    width: 100%;
+    margin-top: 14px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 6px;
+    list-style: none;
+    
+}
+.skills li{
+    background-color: var(--color-dark);
+    font-size: 15px;
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-weight: 400;
+}
+.buttons{
+    width: 100%;
+    margin-top: 26px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.buttons .link{
+    color: var(--color-text);
+    text-decoration: none;
+    background-color: var(--color-primary);
+    padding: 5px 7px;
+    text-align: center;
+    width: 80px;
+    border-radius: 5px;
+}

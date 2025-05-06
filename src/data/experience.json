@@ -1,0 +1,32 @@
+[
+    {
+      "role": "MERN Stack Development Course",
+      "organisation": "Udemy",
+      "startDate": "February, 2025",
+      "endDate": "April,2025",
+      "experiences": ["leared React MongoDB,Express, Node.js, API Integration, Git, and GitHub", "Learned to work with Express and React using TypeScript"],
+      "imageSrc": "udemy.jpg"
+    },
+    {
+      "role": "Android Development using Kotlin",
+      "organisation": "ITI",
+      "startDate": "Augest, 2024",
+      "endDate": "September, 2024",
+      "experiences": ["Learned the basics of Kotlin programming language and OOP",
+       "Learned the Android app architecture and worked with MVVM architecture",
+    "Worked with ROOM Database for local storage"],
+      "imageSrc": "iti-logo.png"
+    },
+    {
+      "role": "Meta React Native Specialization",
+      "organisation": "Coursera",
+      "startDate": "July, 2023",
+      "endDate": "October, 2023",
+      "experiences": [
+        "Learned the basics of Mobile Development",
+        "Learned React basics, components and react hooks",
+        "Learned React Native and used Snack Expo to apply my knowledge"
+      ],
+      "imageSrc": "Coursera-Logo.svg"
+    }
+  ]
