@@ -1,3 +1,4 @@
+import { Outlet } from "react-router-dom";
 import styles from "./App.module.css";
 import { About } from "./components/About/About";
 import { Contact } from "./components/Contact/Contact";
@@ -17,6 +18,7 @@ function App() {
       <Experience />
       <Projects />
       <Contact />
+      <Outlet />
     </div>
   );
 }
