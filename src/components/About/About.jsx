@@ -7,8 +7,9 @@ export const About = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Nada Shoukry</h1>
         <p className={styles.description}>
-          I am a fresh graduate frontend developer using React , ReactNative.I
-          also have basic backend development experience using Express .
+          I am a computer science graduate specialized in frontend development
+          using React and React Native. I also have basic backend development
+          experience using Express.
         </p>
         <div className={styles.btns}>
           <a
