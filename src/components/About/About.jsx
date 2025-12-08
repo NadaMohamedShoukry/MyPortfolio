@@ -19,7 +19,7 @@ export const About = () => {
           </a>
           <a
             className={styles.contactBtn}
-            href="https://drive.google.com/file/d/1_sU-3kX0yE8uDjimuoNIh7mClVyiNi-F/view?usp=sharing"
+            href="https://drive.google.com/file/d/1fTBnF6O4r_5PCAQPRWJ4TwYYaSX9vEQK/view?usp=sharing"
           >
             My CV
           </a>

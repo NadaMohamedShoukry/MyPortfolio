@@ -1,5 +1,29 @@
 [
   {
+    "title": "Hotel Customer Application",
+    "imageSrc": "",
+    "description": "An application intended for hotel customers to book hotel cabins.",
+    "skills": ["React js", "React Query", "TailwindCSS", "Supabase"],
+    "demo": "https://hotel-customer-app.vercel.app/",
+    "source": "https://github.com/NadaMohamedShoukry/HotelCustomerApp"
+  },
+  {
+    "title": "Internal Hotel Management System",
+    "imageSrc": "",
+    "description": "A system intended for internal hotel staff to manage hotel cabins and bookings. This can be accessed only on PCs or laptops at the reception.",
+    "skills": ["React js", "React Query", "TailwindCSS", "Supabase"],
+    "demo": "https://wild-oasis-hotel-management-system.netlify.app/dashboard",
+    "source": "https://github.com/NadaMohamedShoukry/InternalHotelManagementApp"
+  },
+  {
+    "title": "Pizza Restaurant",
+    "imageSrc": "",
+    "description": "A modern online pizza ordering platform that allows users to browse menus,and place orders seamlessly.",
+    "skills": ["React js", "Redux", "TailwindCSS"],
+    "demo": "https://pizza-online-restaurant.netlify.app/",
+    "source": "https://github.com/NadaMohamedShoukry/PizzaRestaurant"
+  },
+  {
     "title": "ByWay Website",
     "imageSrc": "",
     "description": "Online learning platform for takeing courses and applying courses as an instructor.",
@@ -28,12 +52,12 @@
       "Shadcn"
     ],
     "demo": "",
-    "source": "https://github.com/Huma-volve/Round-6-front-Cure-4"
+    "source": "https://github.com/Huma-volve/Round-6-front-Cure-4/tree/dev"
   },
   {
     "title": "Safarni Website",
     "imageSrc": "",
-    "description": "Online flight booking system.",
+    "description": "An online flight booking system that enables users to search, compare, and book flights with real-time updates. Built to simulate a complete airline reservation experience.",
     "skills": [
       "React",
       "Context API",
@@ -42,13 +66,13 @@
       "TailwindCSS",
       "MUI"
     ],
-    "demo": "",
-    "source": "https://github.com/Huma-volve/R6-Front-Safarni-1/tree/Dev"
+    "demo": "https://safarnii-traveling-website.netlify.app/",
+    "source": "https://github.com/Huma-volve/R6-Front-Safarni-1/"
   },
   {
     "title": "WorldWise Website",
     "imageSrc": "",
-    "description": "Traveling history website in React to documment all your flights! Used contextAPI with useReducer for state management .",
+    "description": "Traveling history website in React to documment all your flights.",
     "skills": ["React js", "Context API", "useReducer", "json-server"],
     "demo": "https://worldwise-traveling-history.netlify.app/",
     "source": "https://github.com/NadaMohamedShoukry/WorldWise"

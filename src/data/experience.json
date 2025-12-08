@@ -1,5 +1,16 @@
 [
   {
+    "role": "React.js & Next.js Course",
+    "organisation": "Udemy",
+    "startDate": "June, 2025",
+    "endDate": " November, 2025 ",
+    "experiences": [
+      "Built 10+ web applications using React, JavaScript, Styled Components, and Tailwind CSS.",
+      "Learned state management and data fetching strategies with React Query, Context API, and Redux."
+    ],
+    "imageSrc": "udemy.jpg"
+  },
+  {
     "role": "Front-End Intern",
     "organisation": "Huma-Volve",
     "startDate": "September, 2025",
