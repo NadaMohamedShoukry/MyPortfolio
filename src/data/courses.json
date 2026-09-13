@@ -1,0 +1,36 @@
+[
+  {
+    "role": "React.js & Next.js Course",
+    "organisation": "Udemy",
+    "startDate": "June, 2025",
+    "endDate": " November, 2025 ",
+    "experiences": [
+      "Built 10+ web applications using React, JavaScript, Styled Components, and Tailwind CSS.",
+      "Learned state management and data fetching strategies with React Query, Context API, and Redux."
+    ],
+    "imageSrc": "udemy.jpg"
+  },
+  {
+    "role": "MERN Stack Development Course",
+    "organisation": "Udemy",
+    "startDate": "February, 2025",
+    "endDate": "April,2025",
+    "experiences": [
+      "leared React MongoDB,Express, Node.js, API Integration, Git, and GitHub",
+      "Learned to work with Express and React using TypeScript"
+    ],
+    "imageSrc": "udemy.jpg"
+  },
+  {
+    "role": "Meta React Native Specialization",
+    "organisation": "Coursera",
+    "startDate": "July, 2023",
+    "endDate": "October, 2023",
+    "experiences": [
+      "Learned the basics of Mobile Development",
+      "Learned React basics, components and react hooks",
+      "Learned React Native and used Snack Expo to apply my knowledge"
+    ],
+    "imageSrc": "Coursera-Logo.svg"
+  }
+]

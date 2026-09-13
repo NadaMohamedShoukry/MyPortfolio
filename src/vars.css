@@ -1,10 +1,23 @@
 :root {
-  --color-text: #fff;
+  --color-text: #9c7963;
+  --color-primary: #eee4da;
+  --color-secondary: #c8a49f;
+  --color-dark: #4d0e13;
+  --color-background: #d8c4ac;
+
+  /* fonts */
+  --font-roboto: "Roboto";
+}
+/* :root {
+  --color-text: #e6ecff;
   --color-primary: #576cbc;
   --color-secondary: #19376d;
   --color-dark: #0b2447;
   --color-background: #04152d;
 
-  /* fonts */
-  --font-roboto: "Roboto";
-}
+  fonts */
+/* --font-roboto: "Roboto"; */
+/* } */
+/* --color-text-primary: #ffffff;   /* headings */
+/* --color-text-secondary: #e6ecff; normal text */
+/* --color-text-muted: #aab4d6;     less important text */

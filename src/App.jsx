@@ -8,6 +8,7 @@ import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import { Skills } from "./components/Skills/Skills";
 import "./index.css";
+import { Courses } from "./components/Courses/Courses";
 function App() {
   return (
     <div className={styles.App}>
@@ -17,6 +18,7 @@ function App() {
       {/* <Skills /> */}
       <Experience />
       <Projects />
+      <Courses />
       <Contact />
       <Outlet />
     </div>

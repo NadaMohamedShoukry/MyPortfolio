@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: 49px;
+  margin-top: 140px;
   margin-left: 5%;
   margin-right: 5%;
   z-index: 1;
@@ -27,9 +27,12 @@
   font-size: 25px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
+  /* margin-left: 5%;
+  margin-right: 5%; */
+  /* text-align: center; */
 }
 .aboutImg {
-  width: 50%;
+  width: 35%;
   z-index: 1;
 
   animation-name: floating;
@@ -55,7 +58,13 @@
 }
 .contactBtn {
   text-decoration: none;
-  background-color: var(--color-primary);
+  /* background-color: var(--color-primary); */
+  background: linear-gradient(
+    90deg,
+    rgba(77, 14, 19, 0.85),
+    rgba(130, 45, 52, 0.85)
+  );
+  backdrop-filter: blur(10px);
   color: var(--color-text);
   border-radius: 100px;
   font-size: 25px;
@@ -76,7 +85,7 @@ ease → the speed starts slow → becomes fast → ends slow (natural feeling).
 }
 .contactBtn:hover {
   background-color: var(--color-text);
-  color: var(--color-primary);
+  color: var(--color-text);
   border: 3px solid var(--color-primary);
   top: -5px;
 }
@@ -90,7 +99,7 @@ ease → the speed starts slow → becomes fast → ends slow (natural feeling).
   top: -120px;
   left: 10vw;
   border-radius: 764px;
-  background: rgba(25, 55, 100, 0.7);
+  background: rgba(238, 228, 218, 0.7);
   filter: blur(100px);
   z-index: 0;
 }
@@ -103,7 +112,7 @@ ease → the speed starts slow → becomes fast → ends slow (natural feeling).
   top: 246px;
   right: -25vw;
   border-radius: 764px;
-  background: rgba(25, 55, 100, 0.7);
+  background: rgba(238, 228, 218, 0.7);
   filter: blur(100px);
   z-index: 0;
 }

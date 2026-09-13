@@ -1,34 +1,34 @@
 [
   {
-    "title": "ByWay Website",
+    "title": "TheraPocket Website",
     "imageSrc": "",
-    "description": "Online learning platform for takeing courses and applying courses as an instructor.",
-    "skills": [
-      "React",
-      "Context API",
-      "Redux",
-      "TypeScript",
-      "TailwindCSS",
-      "Shadcn"
-    ],
-    "demo": "",
-    "source": "https://github.com/Huma-volve/Round-6-front-Byway-2"
-  },
-  {
-    "title": "Cure Website",
-    "imageSrc": "",
-    "description": "Online system for booking doctor appointments",
+    "description": "A bilingual medical information platform in collaboration with pharmacy students from MTI.",
     "skills": [
       "React",
       "Context API",
       "React Query",
       "TypeScript",
       "TailwindCSS",
-      "MUI",
-      "Shadcn"
+      "Supabase",
+      "Vercel",
+      "Figma Make"
     ],
-    "demo": "",
-    "source": "https://github.com/Huma-volve/Round-6-front-Cure-4/tree/dev"
+    "demo": "http://thera-pocket.netlify.app",
+    "source": "https://github.com/NadaMohamedShoukry/MedicalSafeTreatmentPlatform"
+  },
+  {
+    "title": "HappyMeal Website",
+    "imageSrc": "",
+    "description": "Online recipes platform for meals built using MealsDB API.",
+    "skills": [
+      "React",
+      "Context API",
+      "React Query",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "demo": "https://happy-meal-website.vercel.app/",
+    "source": "https://github.com/NadaMohamedShoukry/HappyMealWebsite"
   },
   {
     "title": "Hotel Customer Application",
@@ -43,7 +43,7 @@
     "imageSrc": "",
     "description": "A system intended for internal hotel staff to manage hotel cabins and bookings. This can be accessed only on PCs or laptops at the reception.",
     "skills": ["React js", "React Query", "TailwindCSS", "Supabase"],
-    "demo": "https://wild-oasis-hotel-management-system.netlify.app/dashboard",
+    "demo": "https://drive.google.com/file/d/1RBvsrzdhzsldNGqtb9R9CeY9bostncZa/view?usp=sharing",
     "source": "https://github.com/NadaMohamedShoukry/InternalHotelManagementApp"
   },
   {
@@ -51,30 +51,16 @@
     "imageSrc": "",
     "description": "A modern online pizza ordering platform that allows users to browse menus,and place orders seamlessly.",
     "skills": ["React js", "Redux", "TailwindCSS"],
-    "demo": "https://pizza-online-restaurant.netlify.app/",
+    "demo": "https://pizza-restaurant-rose.vercel.app/",
     "source": "https://github.com/NadaMohamedShoukry/PizzaRestaurant"
   },
-  {
-    "title": "Safarni Website",
-    "imageSrc": "",
-    "description": "An online flight booking system that enables users to search, compare, and book flights with real-time updates. Built to simulate a complete airline reservation experience.",
-    "skills": [
-      "React",
-      "Context API",
-      "React Query",
-      "TypeScript",
-      "TailwindCSS",
-      "MUI"
-    ],
-    "demo": "https://safarnii-traveling-website.netlify.app/",
-    "source": "https://github.com/Huma-volve/R6-Front-Safarni-1/"
-  },
+
   {
     "title": "WorldWise Website",
     "imageSrc": "",
     "description": "Traveling history website in React to documment all your flights.",
     "skills": ["React js", "Context API", "useReducer", "json-server"],
-    "demo": "https://worldwise-traveling-history.netlify.app/",
+    "demo": "",
     "source": "https://github.com/NadaMohamedShoukry/WorldWise"
   },
   {
@@ -82,7 +68,7 @@
     "imageSrc": "",
     "description": "Quiz website in React for react quesions to practise using useReducer.",
     "skills": ["React js", "useReducer", "json-server"],
-    "demo": "https://react-quiz-with-json-server.netlify.app/",
+    "demo": "",
     "source": "https://github.com/NadaMohamedShoukry/ReactQuizAppUseReducer"
   },
   {
@@ -90,7 +76,7 @@
     "imageSrc": "",
     "description": "Movie website in React to search for movies to watch! Implemented React custom hooks and reusable components.",
     "skills": ["React js", "Custom Hooks"],
-    "demo": "https://movies-web-usepopcorn.netlify.app/",
+    "demo": "",
     "source": "https://github.com/NadaMohamedShoukry/usePopCornMovieWebsite"
   },
   {
@@ -129,14 +115,6 @@
     "skills": ["Kotlin", "Mealsdb API"],
     "demo": "https://drive.google.com/file/d/1GdxFpbfN6H8ZqJDq1PtnQXQuegMPzHIv/view?usp=sharing",
     "source": "https://github.com/NadaMohamedShoukry/Happy-Meal"
-  },
-  {
-    "title": "Student Affairs Website",
-    "imageSrc": "template.jpeg",
-    "description": "Web based management system designed to manage student records and information.",
-    "skills": ["HTML", "CSS", "Java Script", "Django", "SQLlite"],
-    "demo": "",
-    "source": "https://github.com/NadaMohamedShoukry/Student_Affairs_Website"
   },
   {
     "title": "MyTemplateDesign",

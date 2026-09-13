@@ -12,6 +12,37 @@
   letter-spacing: 1.75px;
   text-transform: uppercase;
   margin-bottom: 20px;
+
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.title::after {
+  content: "";
+  flex: 1;
+  height: 3px;
+  border-radius: 10px;
+
+  background: linear-gradient(
+    90deg,
+    var(--color-primary),
+    var(--color-secondary),
+    var(--color-dark)
+  );
+
+  background-size: 200% 100%;
+  animation: moveLine 4s linear infinite;
+}
+@keyframes moveLine {
+  0% {
+    background-position: 0% 0%;
+  }
+  50% {
+    background-position: 100% 0%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
 }
 .content {
   display: flex;
@@ -27,8 +58,12 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
-  box-shadow: 0 16px 14px 0 #04152d;
+  background: linear-gradient(
+    300deg,
+    var(--color-primary) 0%,
+    var(--color-secondary) 100%
+  );
+  box-shadow: 0 16px 14px 0 var(--color-secondary);
   padding: 10px 24px;
   max-width: 345px;
   height: 300px;

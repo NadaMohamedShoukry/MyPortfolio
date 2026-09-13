@@ -7,9 +7,11 @@ export const About = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Nada Shoukry</h1>
         <p className={styles.description}>
-          I am a computer science graduate specialized in frontend development
-          using React and React Native. I also have basic backend development
-          experience using Express.
+          Computer Science graduate and Frontend Developer experienced in
+          building responsive web applications with React, TypeScript, and
+          Tailwind CSS, with additional backend experience using Node.js and
+          Express.js. I also work as a software instructor, teaching programming
+          and modern web development through practical, project-based learning.
         </p>
         <div className={styles.btns}>
           <a
@@ -20,7 +22,7 @@ export const About = () => {
           </a>
           <a
             className={styles.contactBtn}
-            href="https://drive.google.com/file/d/1fTBnF6O4r_5PCAQPRWJ4TwYYaSX9vEQK/view?usp=sharing"
+            href="https://drive.google.com/file/d/1U40tGma9PIBYpf51LpbDYOThBkMtJqnR/view?usp=sharing"
           >
             My CV
           </a>
@@ -28,7 +30,7 @@ export const About = () => {
       </div>
       <img
         className={styles.aboutImg}
-        src={getImageUrl("undraw_software-engineer_xv60.svg")}
+        src={getImageUrl("undraw_programmer_raqr.svg")}
         alt="aboutImage"
       />
       <div className={styles.topBlur}></div>

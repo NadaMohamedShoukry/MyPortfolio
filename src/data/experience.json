@@ -1,14 +1,45 @@
 [
   {
-    "role": "React.js & Next.js Course",
-    "organisation": "Udemy",
-    "startDate": "June, 2025",
-    "endDate": " November, 2025 ",
+    "role": "Software Developer Intern",
+    "organisation": "Meta Software",
+    "startDate": "June , 2026",
+    "endDate": "September , 2026",
     "experiences": [
-      "Built 10+ web applications using React, JavaScript, Styled Components, and Tailwind CSS.",
-      "Learned state management and data fetching strategies with React Query, Context API, and Redux."
+      "Developed and integrated responsive features for a confidential internal management system using React, TypeScript, Tailwind CSS, React Query, and REST APIs, building reusable forms, tables, filters, routing, and dynamic workflows.",
+      "Contributed to backend API development and database integration with Node.js, Express.js, Prisma, and MySQL while collaborating on requirements, UI reviews, documentation, debugging, and performance optimization."
     ],
-    "imageSrc": "udemy.jpg"
+    "imageSrc": "metaSW.png"
+  },
+  {
+    "role": "Freelance Frontend Developer - TheraPocket",
+    "organisation": "",
+    "startDate": "May  , 2026",
+    "endDate": "June  , 2026",
+    "experiences": [
+      "Designed and developed a bilingual medical information platform in collaboration with pharmacy students from MTI.",
+      "Used Figma Make, React, TypeScript, Tailwind CSS, Supabase, React Query, and Context API, with medical data search, dynamic rendering, and Vercel deployment."
+    ],
+    "imageSrc": "logo.png"
+  },
+  {
+    "role": "Part-Time Software Trainer",
+    "organisation": " Eyouth",
+    "startDate": "April  , 2026",
+    "endDate": "Present",
+    "experiences": [
+      "Contributing to training and mentoring activities aligned with the DECI program, helping students build foundational tech skills."
+    ],
+    "imageSrc": "eyouth.webp"
+  },
+  {
+    "role": "Part-Time Instructor",
+    "organisation": "ISchool",
+    "startDate": "December , 2025",
+    "endDate": " February , 2026 ",
+    "experiences": [
+      "Taught freelancing and career coaching as a tech instructor."
+    ],
+    "imageSrc": "ischool.jpg"
   },
   {
     "role": "Front-End Intern",
@@ -22,17 +53,6 @@
     "imageSrc": "huma-volve.jpeg"
   },
   {
-    "role": "MERN Stack Development Course",
-    "organisation": "Udemy",
-    "startDate": "February, 2025",
-    "endDate": "April,2025",
-    "experiences": [
-      "leared React MongoDB,Express, Node.js, API Integration, Git, and GitHub",
-      "Learned to work with Express and React using TypeScript"
-    ],
-    "imageSrc": "udemy.jpg"
-  },
-  {
     "role": "Android Development using Kotlin",
     "organisation": "ITI",
     "startDate": "Augest, 2024",
@@ -43,17 +63,5 @@
       "Worked with ROOM Database for local storage"
     ],
     "imageSrc": "iti-logo.png"
-  },
-  {
-    "role": "Meta React Native Specialization",
-    "organisation": "Coursera",
-    "startDate": "July, 2023",
-    "endDate": "October, 2023",
-    "experiences": [
-      "Learned the basics of Mobile Development",
-      "Learned React basics, components and react hooks",
-      "Learned React Native and used Snack Expo to apply my knowledge"
-    ],
-    "imageSrc": "Coursera-Logo.svg"
   }
 ]
