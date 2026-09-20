@@ -60,7 +60,7 @@
     "imageSrc": "",
     "description": "Traveling history website in React to documment all your flights.",
     "skills": ["React js", "Context API", "useReducer", "json-server"],
-    "demo": "",
+    "demo": "https://worldwise-traveling-history.netlify.app/",
     "source": "https://github.com/NadaMohamedShoukry/WorldWise"
   },
   {
@@ -68,7 +68,7 @@
     "imageSrc": "",
     "description": "Quiz website in React for react quesions to practise using useReducer.",
     "skills": ["React js", "useReducer", "json-server"],
-    "demo": "",
+    "demo": "https://react-quiz-with-json-server.netlify.app/",
     "source": "https://github.com/NadaMohamedShoukry/ReactQuizAppUseReducer"
   },
   {
@@ -76,7 +76,7 @@
     "imageSrc": "",
     "description": "Movie website in React to search for movies to watch! Implemented React custom hooks and reusable components.",
     "skills": ["React js", "Custom Hooks"],
-    "demo": "",
+    "demo": "https://movies-web-usepopcorn.netlify.app/",
     "source": "https://github.com/NadaMohamedShoukry/usePopCornMovieWebsite"
   },
   {
