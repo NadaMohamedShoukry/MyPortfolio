@@ -34,7 +34,7 @@
     "title": "Hotel Customer Application",
     "imageSrc": "",
     "description": "An application intended for hotel customers to book hotel cabins.",
-    "skills": ["React js", "React Query", "TailwindCSS", "Supabase"],
+    "skills": ["Next js", "TailwindCSS", "Supabase"],
     "demo": "https://hotel-customer-app.vercel.app/",
     "source": "https://github.com/NadaMohamedShoukry/HotelCustomerApp"
   },
